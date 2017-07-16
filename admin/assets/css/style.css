@@ -1,0 +1,46 @@
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+}
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+}
+
+.space{
+    margin-left:15px;
+}
+
+.pagination a, .pagination strong{
+    display: inline-block;
+    padding: 2px 8px;
+    margin: 0px 5px;
+    border-radius: 4px;
+    text-decoration: none;
+    border: 1px solid;
+}
+
+.pagination a:hover,.pagination strong{
+
+    background-color: rgb(224, 228, 228);
+}
+
+
+.red{
+    color:red;
+}
+.form-area
+{
+    background-color: #FAFAFA;
+    padding: 10px 40px 60px;
+    margin: 10px 0px 60px;
+    border: 1px solid GREY;
+}
+
+.chk{
+    width: 22px;
+    height: 19px;
+}
